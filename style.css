@@ -1,0 +1,112 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    font-size: medium;
+    }
+    .heading{
+        background-color: #141718;
+        height: 70px;
+    }
+    .name{
+        color: white;
+        font-size: 40px;
+        font-family:'Times New Roman', Times, serif;
+        text-transform :capitalize;
+        display : inline-block;
+        padding-top: 5px;
+        padding-right: 0px;
+        padding-bottom: 5px;
+        padding-left: 10px;
+    }
+    .me{
+        color:rgb(252, 247, 247);
+        font-size: 40px;
+        text-transform:capitalize;
+        display: inline-block;
+        padding:5px;
+        padding-left: 0%;
+    }
+    a{
+        display: inline-block;
+        margin-left: 500px;
+        text-decoration: none;
+        font-size: 20px;
+
+    }
+    #about{
+          display: inline-block;
+        margin-left: 100px;
+        text-decoration: none;
+        font-size: 20px;
+
+    }
+   #skills{
+      display: inline-block;
+        margin-left: 100px;
+        text-decoration: none;
+        font-size: 20px;
+
+   }
+#cont{
+    display: inline-block;
+        margin-left: 100px;
+        text-decoration: none;
+        font-size: 20px;
+
+}
+body{
+ background-image: url(flat-lay-workstation-with-copy-space-laptop_23-2148430879.avif);
+ background-size:cover;   
+}
+
+.maincontents{
+    height: 600px;
+    width: 600px;
+    font-size: 60px;
+    text-align: center;
+    padding-top: 150px;
+     text-decoration: 5px underline  rgb(255, 255, 255) ;
+    display: inline-block;
+}
+.maincontentss{
+    font-size: 60px;
+    text-align: center;
+    padding-top: 150px;
+     text-decoration: 5px underline  rgb(255, 255, 255) ;
+    display: inline-block;
+}
+.job{
+    font-size: 40px;
+    text-align: center;
+    display: inline-block;
+    padding-top: 0;
+    font-style: italic;
+    text-decoration: 3px underline white;
+}
+.skills
+{
+    font-size: 28px;
+    text-align: center;
+    display: inline-block;
+    padding-top: 0;
+    font-style: normal;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.edu{
+    font-size: 24px;
+    text-align: center;
+   
+    display: inline-block;
+    padding-top: 0;
+    font-style: normal;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+footer{
+    background-color: black;
+    height: 60px;
+    width: 100%;
+    font-size: 30px;
+   
+}
